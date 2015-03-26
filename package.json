@@ -1,0 +1,30 @@
+{
+  "name": "honeybadger-etl",
+  "version": "1.0.0",
+  "description": "Extract, Transform and Load for Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/impactmarketingspecialists/honeybadger-etl.git"
+  },
+  "keywords": [
+    "ETL",
+    "extract",
+    "transform",
+    "load",
+    "stream",
+    "streaming",
+    "bigdata",
+    "csv",
+    "mysql"
+  ],
+  "author": "Danny Graham",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/impactmarketingspecialists/honeybadger-etl/issues"
+  },
+  "homepage": "https://github.com/impactmarketingspecialists/honeybadger-etl"
+}
