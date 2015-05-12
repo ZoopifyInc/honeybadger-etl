@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/impactmarketingspecialists/honeybadger-etl/issues"
   },
-  "homepage": "https://github.com/impactmarketingspecialists/honeybadger-etl"
+  "homepage": "https://github.com/impactmarketingspecialists/honeybadger-etl",
+  "dependencies": {
+    "rets.js": "git://github.com/retsr/rets.js.git"
+  }
 }
