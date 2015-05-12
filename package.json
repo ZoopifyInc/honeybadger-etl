@@ -28,6 +28,7 @@
   },
   "homepage": "https://github.com/impactmarketingspecialists/honeybadger-etl",
   "dependencies": {
+    "filequeue": "^0.5.0",
     "ftp": "^0.3.10",
     "rets.js": "git://github.com/retsr/rets.js.git"
   }
