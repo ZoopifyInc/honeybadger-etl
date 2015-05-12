@@ -30,6 +30,8 @@
   "dependencies": {
     "filequeue": "^0.5.0",
     "ftp": "^0.3.10",
+    "mysql": "^2.6.2",
+    "request": "^2.55.0",
     "rets.js": "git://github.com/retsr/rets.js.git"
   }
 }
