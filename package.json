@@ -33,6 +33,7 @@
     "csv-streamify": "^2.0.0",
     "filequeue": "^0.5.0",
     "ftp": "^0.3.10",
+    "mkdirp": "^0.5.1",
     "mysql": "^2.6.2",
     "request": "^2.55.0",
     "rets.js": "git://github.com/dermidgen/rets.js.git#1e22a471fa7f2581e66a168a6438c6f43c34038d"
