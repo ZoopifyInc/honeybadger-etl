@@ -1,6 +1,6 @@
 {
   "name": "honeybadger-etl",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Extract, Transform and Load for Nodejs",
   "main": "index.js",
   "scripts": {
